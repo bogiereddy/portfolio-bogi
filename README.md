@@ -25,4 +25,4 @@ npm run build
 
 Place your resume PDF at:
 
-public/resume.pdf
+public/resume.pdf# portfolio-bogi
